@@ -1,0 +1,27 @@
+{
+    "1": {
+        "nombre": "cama",
+        "precio": 34000.0,
+        "cantidad": 4
+    },
+    "2": {
+        "nombre": "tv",
+        "precio": 344444.0,
+        "cantidad": 2
+    },
+    "3": {
+        "nombre": "silla",
+        "precio": 49999.0,
+        "cantidad": 5
+    },
+    "4": {
+        "nombre": "laptop",
+        "precio": 4000000.0,
+        "cantidad": 30
+    },
+    "5": {
+        "nombre": "movil",
+        "precio": 300.0,
+        "cantidad": 2
+    }
+}
